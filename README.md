@@ -16,6 +16,8 @@ WeekBack에서 진행하는 알고리즘 공동 목표 뽀개기
 |LeetCode|Easy|2개|
 ||Medium|4개|
 ||Hard|6개|
+|Codility|Painless|1개|
+||Respectable|2개|
 
 ## 목표 개수
 일주일에 **10개씩**
