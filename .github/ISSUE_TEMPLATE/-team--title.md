@@ -2,8 +2,9 @@
 name: 주간 이슈
 about: 알고리즘 풀이 주간 현황 이슈 템플릿
 title: "[N기] N주차 알고리즘 뱅크"
-labels: All
-assignees: beginin15, blossun, hsik0225, suhyunsim, dev-Lena
+labels: ''
+assignees: beginin15, blossun, dev-Lena, hsik0225, suhyunsim
+
 ---
 
 # 사이트별 개수 정책
@@ -21,6 +22,8 @@ assignees: beginin15, blossun, hsik0225, suhyunsim, dev-Lena
 |LeetCode|Easy|2개|
 ||Medium|4개|
 ||Hard|6개|
+|Codility|Painless|1개|
+||Respectable|2개|
 
 # 목표 개수
 일주일에 **8개씩**
