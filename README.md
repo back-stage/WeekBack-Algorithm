@@ -18,6 +18,8 @@ WeekBack에서 진행하는 알고리즘 공동 목표 뽀개기
 ||Hard|6개|
 |Codility|Painless|1개|
 ||Respectable|2개|
+|Goorm|Level 1 ~ 3|1개|
+||Level 4 ~ 5|2개|
 
 ## 목표 개수
 일주일에 **10개씩**
@@ -36,3 +38,4 @@ WeekBack에서 진행하는 알고리즘 공동 목표 뽀개기
 |국내|백준 온라인 저지(BOJ)|https://www.acmicpc.net|
 ||프로그래머스(Programmers)|https://programmers.co.kr 
 ||코드업(CodeUp)|https://codeup.kr|
+||구름(Goorm)|https://level.goorm.io|
