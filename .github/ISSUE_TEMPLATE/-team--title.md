@@ -12,8 +12,8 @@ assignees: beginin15, blossun, dev-Lena, hsik0225, suhyunsim
 |---|---|---|
 |백준|Bronze|1개|
 ||Silver|2개|
-||Gold|3개|
-||Platinum을 비롯한 그 이상|4개|
+||Gold|4개|
+||Platinum을 비롯한 그 이상|5개|
 |프로그래머스|Level 1|2개|
 ||Level 2|3개|
 ||Level 3|4개|
@@ -24,6 +24,8 @@ assignees: beginin15, blossun, dev-Lena, hsik0225, suhyunsim
 ||Hard|6개|
 |Codility|Painless|1개|
 ||Respectable|2개|
+|Goorm|Level 1 ~ 3|1개|
+||Level 4 ~ 5|2개|
 
 # 목표 개수
 일주일에 **8개씩**
