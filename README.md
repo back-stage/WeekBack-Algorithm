@@ -6,8 +6,8 @@ WeekBack에서 진행하는 알고리즘 공동 목표 뽀개기
 |---|---|---|
 |백준|Bronze|1개|
 ||Silver|2개|
-||Gold|3개|
-||Platinum을 비롯한 그 이상|4개|
+||Gold|4개|
+||Platinum을 비롯한 그 이상|5개|
 |프로그래머스|Level 1|2개|
 ||Level 2|3개|
 ||Level 3|4개|
