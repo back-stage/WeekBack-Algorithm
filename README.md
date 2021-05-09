@@ -39,7 +39,7 @@ WeekBack에서 진행하는 알고리즘 공동 목표 뽀개기
 
 ## 벌금
 - 한 문제당 **500원** 차감
-- [WeekBack](https://github.com/back-stage/WeekBack) 모임 예치금에서 차감
+- [벌칙금 현황](https://docs.google.com/spreadsheets/d/1bW4PDzOeI4BGsfmKYqqA4cw2bDyWchXP4qRALd16rEE/edit#gid=1144420198)
 
 ## 알고리즘 사이트 참고
 ||이름|링크|
