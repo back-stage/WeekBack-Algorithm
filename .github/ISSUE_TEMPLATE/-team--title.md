@@ -3,7 +3,7 @@ name: 주간 이슈
 about: 알고리즘 풀이 주간 현황 이슈 템플릿
 title: "[N기] N주차 알고리즘 뱅크"
 labels: ''
-assignees: beginin15, blossun, dev-Lena, hsik0225, suhyunsim
+assignees: beginin15, suhyunsim
 
 ---
 
@@ -32,6 +32,6 @@ assignees: beginin15, blossun, dev-Lena, hsik0225, suhyunsim
 
 # 벌금
 - 한 문제당 **500원** 차감
-- [WeekBack](https://github.com/back-stage/WeekBack) 모임 예치금에서 차감
+- [벌칙금 현황](https://docs.google.com/spreadsheets/d/1bW4PDzOeI4BGsfmKYqqA4cw2bDyWchXP4qRALd16rEE/edit#gid=1144420198)
 
-> 2021.02.08 작성 기준
+> 2021.05.23 작성 기준
