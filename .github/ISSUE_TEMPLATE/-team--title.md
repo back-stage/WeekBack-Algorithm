@@ -3,7 +3,7 @@ name: 주간 이슈
 about: 알고리즘 풀이 주간 현황 이슈 템플릿
 title: "[N기] N주차 알고리즘 뱅크"
 labels: ''
-assignees: beginin15, suhyunsim
+assignees: beginin15, suhyunsim, blossun
 
 ---
 
